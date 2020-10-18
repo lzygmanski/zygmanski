@@ -5,3 +5,14 @@ $primary: #933e87;
 
 @import "~bulma/bulma.sass";
 
+.contact {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+.logo {
+    position: fixed;
+    top: 10px;
+    left: calc(50% - 15px);
+}
